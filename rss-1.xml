@@ -1,3 +1,11 @@
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" version="2.0">
+<channel>
+<title>The Nod Mag</title>
+<atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml"/>
+<link>https://thenodmag.com/content</link>
+<description>Articles of the nod</description>
+<lastBuildDate>Mon, 22 Jul 2024 10:00:00 GMT</lastBuildDate>
+<language>en-US</language>
 <item>
         <title>Eat at ROBs</title>
         <link>https://www.timeout.com/sydney/restaurants/eat-at-robs</link>
@@ -77,3 +85,5 @@
 <h3><strong>On a budget? </strong><a href="https://www.timeout.com/sydney/travel/the-best-cheap-holiday-destinations-in-new-south-wales"><strong>These are the most affordable places to holiday in NSW</strong></a><strong>.</strong></h3>]]></content:encoded>
         <media:content url="https://media.timeout.com/images/106290011/750/422/image.jpg" type="image/jpeg" medium="image" alt="This super luxe hotel is opening soon on Sydney&apos;s Oxford Street" data-credit="Photograph: Supplied | 25hours Hotel The Olympia" />
     </item> 
+</channel>
+</rss>
